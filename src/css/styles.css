@@ -58,15 +58,6 @@ body {
     height: 100%;
 }
 
-/* .flex {
-    display: flex;
-    align-items: center;
-    padding: 30px 5%;
-    float: right;
-} */
-
-/* ---navigation--- */
-
 #primary-navigation-desktop {
     list-style: none;
     padding: 0;
@@ -192,7 +183,7 @@ body {
     }
 }
 
-/* --- TITLE_SECTION_HOME --- */
+/* --- Title-section-home --- */
 
 #title{
     display: flex;
@@ -248,7 +239,7 @@ body {
 
 }
 
-/* --- SLIDESHOW_SECTION --- */
+/* --- slideshow-section --- */
 
 #slideshow {
     background: #1e0521 ;
@@ -342,7 +333,7 @@ body {
 
 
 
-/* --- MUSIC - PLAYER - SECTION --- */
+/* --- music-player section --- */
 
 #music-player-section {
     background-color: #002338;
@@ -376,7 +367,7 @@ body {
     }
 }
 
-/*  --- LICENSING - SECTION ---- */
+/*  --- licensing section ---- */
 
 #leistungs-section {
     padding: 50px;
@@ -500,7 +491,7 @@ body {
     }
 }
 
-/* --- F.A.Q - SECTION ---  */
+/* --- F.A.Q section ---  */
 
 #faq-section {
     background-color:#a30504 ;
@@ -573,7 +564,7 @@ body {
     }
 }
 
-/* --- LINK - SECTION --- */
+/* --- link-section --- */
 
 .link-section {
     background-color: #002338;
@@ -636,7 +627,7 @@ body {
     }
 }
 
-/*     --- FORM - SECTION --- */
+/* --- fomrm section --- */
 
 .form-container {
     display: flex;
@@ -748,7 +739,7 @@ body {
 }
 
 
-/* --- ABOUT-PAGE --- */
+/* --- about page --- */
 
 #about-section {
     display: flex;
@@ -801,18 +792,18 @@ body {
     }
 
     .musicvideo-section-mobile {
-    display: flex;
-    width: 100%;
-    height: auto;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+        display: flex;
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
     }
 
     .musicvideo-section-mobile p {
         margin-bottom: 15px;
         flex-basis: 100%;
         text-align: center;
-        }
+    }
 
 }
 
